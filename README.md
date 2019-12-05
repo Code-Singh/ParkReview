@@ -21,3 +21,5 @@ DarkSky
 Host
 Website: Heroku 
 Database: Mongodb Atlas
+
+![Main Page](https://github.com/Code-Singh/ParkReview/blob/master/Main%20Page.png)
